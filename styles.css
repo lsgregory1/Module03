@@ -50,7 +50,11 @@ h2 {
 }
 
 article {
+
     line-height: 1.5;
+
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 section {
@@ -64,8 +68,6 @@ section {
 
 p {
     text-align: justify;
-    padding-left: 15%;
-    padding-right: 15%;
 }
 
 footer {
