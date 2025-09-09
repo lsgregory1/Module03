@@ -31,7 +31,7 @@ aside {
     text-align: right;
     padding: 10px;
     border-style: solid;
-    border-color: #444466;
+    border-color: #EBF224;
     border-left: none;
     border-bottom: none;
     border-top: none;
@@ -52,14 +52,13 @@ h2 {
 article {
 
     line-height: 1.5;
-
     padding-left: 15%;
     padding-right: 15%;
 }
 
 section {
     border-style: solid;
-    border-color: #088001;
+    border-color: #B82E14;
     border-left-width: 30px;
     background-color: #ffffee;
     padding: 15px;
